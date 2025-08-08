@@ -35,7 +35,3 @@ Working on a video processing pipeline with:
 - 🔒 **Security-first priority** - Secure by design
 - 🙂 **Data and user privacy** - Protecting user information
 
-## 📬 Contact
-
-- **Email:** mockingbugslabs@proton.me
-- **Twitter:** @mbbgss
